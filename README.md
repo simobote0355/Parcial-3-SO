@@ -9,7 +9,13 @@ Este es el proyecto para el tercer parcial de Sistemas Operativos. El equipo est
 
 Se uso compresión LZ78 y encriptación Cesar. 
 
-Para ejecutar el código: 
+Para ejecutar el proyecto, primero compilar los archivos:
+
+```bash
+make 
+```
+
+Luego,
 
 ```bash
 ./lz78_program 
